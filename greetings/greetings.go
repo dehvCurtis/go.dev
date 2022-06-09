@@ -8,4 +8,8 @@ func Hello() {
     return message
 }
 
-// Alternative way to write this code
+// Alternative way to write this function
+// func Hello () {
+//     var message string
+//     message = fmt.Sprintf("Hi %v. Welcome!", name)
+// }
